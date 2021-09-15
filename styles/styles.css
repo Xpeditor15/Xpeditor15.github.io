@@ -11,6 +11,6 @@ body {
     width: 500px;
 }
 
-.navbar-item {
-    padding-left: 100px;
+.custom-buttons {
+    padding-left: 10px;
 }
